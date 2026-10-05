@@ -6,8 +6,5 @@
 
 | Material | Ficheiro |
 | --- | --- |
+| Slides em PDF | [slide.pdf](slide.pdf) |
 | Slides em PowerPoint | [slide.pptx](slide.pptx) |
-
-## Materiais a disponibilizar
-
-`slide.pdf`.
