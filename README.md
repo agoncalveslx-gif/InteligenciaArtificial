@@ -29,33 +29,33 @@ Enviar o trabalho para **antonio.leonardo.goncalves@marinha.pt**, até às **23h
 
 ## Materiais por tópico
 
-Os números identificam tópicos, não semanas. Cada pasta contém os materiais diretamente, sem subpastas. Os links Colab usam o ramo `main`.
+Os números identificam tópicos, não semanas. Este índice apresenta apenas as cinco pastas e os materiais efetivamente incluídos neste ZIP. Os links são relativos à localização deste README na raiz.
 
-| Tópico | Conteúdo | Slides | Prática | Laboratório | Soluções |
-| --- | --- | --- | --- | --- | --- |
-| 00 | [Apresentacao](00-Apresentacao/README.md) | [PPTX](00-Apresentacao/slide.pptx) · [PDF](00-Apresentacao/slide.pdf) | — | — | — |
-| 01 | [Artificial Intelligence and Agents](01-Artificial%20Intelligence%20and%20Agents/README.md) | [PPTX](01-Artificial%20Intelligence%20and%20Agents/slide.pptx) · [PDF](01-Artificial%20Intelligence%20and%20Agents/slide.pdf) | [Exercícios](01-Artificial%20Intelligence%20and%20Agents/pratica.pdf) | [Abrir no Colab](https://colab.research.google.com/github/agoncalveslx-gif/InteligenciaArtificial/blob/main/01-Artificial%20Intelligence%20and%20Agents/laboratorio.ipynb) | [Prática](01-Artificial%20Intelligence%20and%20Agents/pratica-solucao.pdf) · [Laboratório](01-Artificial%20Intelligence%20and%20Agents/laboratorio-solucao.pdf) |
-| 02 | [Formulação e Procura Não Informada](02-%20Formula%C3%A7%C3%A3o%20e%20Procura%20N%C3%A3o%20Informada/README.md) | [PPTX](02-%20Formula%C3%A7%C3%A3o%20e%20Procura%20N%C3%A3o%20Informada/slide.pptx) · [PDF](02-%20Formula%C3%A7%C3%A3o%20e%20Procura%20N%C3%A3o%20Informada/slide.pdf) | [Exercícios](02-%20Formula%C3%A7%C3%A3o%20e%20Procura%20N%C3%A3o%20Informada/pratica.pdf) | [Abrir no Colab](https://colab.research.google.com/github/agoncalveslx-gif/InteligenciaArtificial/blob/main/02-%20Formula%C3%A7%C3%A3o%20e%20Procura%20N%C3%A3o%20Informada/laboratorio.ipynb) | [Prática](02-%20Formula%C3%A7%C3%A3o%20e%20Procura%20N%C3%A3o%20Informada/pratica-solucao.pdf) · [Laboratório](02-%20Formula%C3%A7%C3%A3o%20e%20Procura%20N%C3%A3o%20Informada/laboratorio-solucao.pdf) |
-| 03 | [Algoritmo A e Heurísticas](03-Algoritmo%20A%20e%20Heur%C3%ADsticas/README.md) | [PPTX](03-Algoritmo%20A%20e%20Heur%C3%ADsticas/slide.pptx) · [PDF](03-Algoritmo%20A%20e%20Heur%C3%ADsticas/slide.pdf) | [Exercícios](03-Algoritmo%20A%20e%20Heur%C3%ADsticas/pratica.pdf) | [Abrir no Colab](https://colab.research.google.com/github/agoncalveslx-gif/InteligenciaArtificial/blob/main/03-Algoritmo%20A%20e%20Heur%C3%ADsticas/laboratorio.ipynb) | [Prática](03-Algoritmo%20A%20e%20Heur%C3%ADsticas/pratica-solucao.pdf) · [Laboratório](03-Algoritmo%20A%20e%20Heur%C3%ADsticas/laboratorio-solucao.pdf) |
-| 04 | [Problemas de Satisfação de Restrições (CSP)](04-%20Problemas%20de%20Satisfa%C3%A7%C3%A3o%20de%20Restri%C3%A7%C3%B5es%20%28CSP%29/README.md) | [PPTX](04-%20Problemas%20de%20Satisfa%C3%A7%C3%A3o%20de%20Restri%C3%A7%C3%B5es%20%28CSP%29/slide.pptx) · [PDF](04-%20Problemas%20de%20Satisfa%C3%A7%C3%A3o%20de%20Restri%C3%A7%C3%B5es%20%28CSP%29/slide.pdf) | [Exercícios](04-%20Problemas%20de%20Satisfa%C3%A7%C3%A3o%20de%20Restri%C3%A7%C3%B5es%20%28CSP%29/pratica.pdf) | [Abrir no Colab](https://colab.research.google.com/github/agoncalveslx-gif/InteligenciaArtificial/blob/main/04-%20Problemas%20de%20Satisfa%C3%A7%C3%A3o%20de%20Restri%C3%A7%C3%B5es%20%28CSP%29/laboratorio.ipynb) | [Prática](04-%20Problemas%20de%20Satisfa%C3%A7%C3%A3o%20de%20Restri%C3%A7%C3%B5es%20%28CSP%29/pratica-solucao.pdf) · [Laboratório](04-%20Problemas%20de%20Satisfa%C3%A7%C3%A3o%20de%20Restri%C3%A7%C3%B5es%20%28CSP%29/laboratorio-solucao.pdf) |
-| 05 | [Procura Local e Otimização](05-Procura%20Local%20e%20Otimiza%C3%A7%C3%A3o/README.md) | [PPTX](05-Procura%20Local%20e%20Otimiza%C3%A7%C3%A3o/slide.pptx) · [PDF](05-Procura%20Local%20e%20Otimiza%C3%A7%C3%A3o/slide.pdf) | A disponibilizar | A disponibilizar | — |
-| 06 | [Procura Adversarial e Minimax](06-Procura%20Adversarial%20e%20Minimax/README.md) | [PPTX](06-Procura%20Adversarial%20e%20Minimax/slide.pptx) · [PDF](06-Procura%20Adversarial%20e%20Minimax/slide.pdf) | [Exercícios](06-Procura%20Adversarial%20e%20Minimax/pratica.pdf) | A disponibilizar | [Prática](06-Procura%20Adversarial%20e%20Minimax/pratica-solucao.pdf) |
-| 07 | [Aprendizagem por Reforço e Q-Learning](07-Aprendizagem%20por%20Refor%C3%A7o%20e%20Q-Learning/README.md) | [PPTX](07-Aprendizagem%20por%20Refor%C3%A7o%20e%20Q-Learning/slide.pptx) · [PDF](07-Aprendizagem%20por%20Refor%C3%A7o%20e%20Q-Learning/slide.pdf) | A disponibilizar | A disponibilizar | — |
-| 08 | [Redes Neuronais e Deep Learning](08-Redes%20Neuronais%20e%20Deep%20Learning/README.md) | [PPTX](08-Redes%20Neuronais%20e%20Deep%20Learning/slide.pptx) · [PDF](08-Redes%20Neuronais%20e%20Deep%20Learning/slide.pdf) | A disponibilizar | A disponibilizar | — |
-| 09 | [LLMs e IA Generativa](09-LLMs%20e%20IA%20Generativa/README.md) | [PPTX](09-LLMs%20e%20IA%20Generativa/slide.pptx) · [PDF](09-LLMs%20e%20IA%20Generativa/slide.pdf) | A disponibilizar | A disponibilizar | — |
+**Como utilizar:** extrair todo o ZIP e abrir o `README.md` num visualizador de Markdown que permita seguir links locais. Se descarregar apenas este README, colocá-lo na raiz da pasta extraída, ao lado das pastas dos tópicos. Os links para pastas permitem consultar o respetivo conteúdo; os links para ficheiros abrem os materiais diretamente, conforme o suporte do visualizador.
 
-## Utilização do Google Colab
+| Tópico / pasta | Apresentações | Prática | Laboratório | Outros materiais |
+| --- | --- | --- | --- | --- |
+| [00-Apresentacao](00-Apresentacao/) | [slide.pdf](00-Apresentacao/slide.pdf) · [slide.pptx](00-Apresentacao/slide.pptx) | — | — | [README.md](00-Apresentacao/README.md) |
+| [01-Artificial Intelligence and Agents](01-Artificial%20Intelligence%20and%20Agents/) | [slide.pdf](01-Artificial%20Intelligence%20and%20Agents/slide.pdf) | [Exercícios (PDF)](01-Artificial%20Intelligence%20and%20Agents/pratica.pdf) | [Notebook (IPYNB)](01-Artificial%20Intelligence%20and%20Agents/laboratorio.ipynb) | — |
+| [02- Formulação e Procura Não Informada](02-%20Formula%C3%A7%C3%A3o%20e%20Procura%20N%C3%A3o%20Informada/) | [slides.pdf](02-%20Formula%C3%A7%C3%A3o%20e%20Procura%20N%C3%A3o%20Informada/slides.pdf) | [Exercícios (PDF)](02-%20Formula%C3%A7%C3%A3o%20e%20Procura%20N%C3%A3o%20Informada/pratica.pdf) | [Notebook (IPYNB)](02-%20Formula%C3%A7%C3%A3o%20e%20Procura%20N%C3%A3o%20Informada/laboratorio.ipynb) | — |
+| [03-Algoritmo A e Heurísticas](03-Algoritmo%20A%20e%20Heur%C3%ADsticas/) | [slides.pdf](03-Algoritmo%20A%20e%20Heur%C3%ADsticas/slides.pdf) | [Exercícios (PDF)](03-Algoritmo%20A%20e%20Heur%C3%ADsticas/pratica.pdf) | [Notebook (IPYNB)](03-Algoritmo%20A%20e%20Heur%C3%ADsticas/laboratorio.ipynb) | — |
+| [04- CSP](04-%20CSP/) | [slides.pdf](04-%20CSP/slides.pdf) | [Exercícios (PDF)](04-%20CSP/pratica.pdf) | [Notebook (IPYNB)](04-%20CSP/laboratorio.ipynb) | — |
 
-Selecionar **Abrir no Colab**, iniciar sessão numa conta Google e guardar uma cópia no Drive. Executar as células por ordem e seguir o enunciado. Guardar o trabalho e descarregar o notebook para entrega. Os ficheiros produzidos durante a execução ficam no ambiente temporário do Colab e devem ser descarregados se forem necessários.
+«—» indica que não existe material dessa categoria na pasta. A pasta `04- CSP` corresponde ao tópico Problemas de Satisfação de Restrições. Os tópicos 05 a 09 e os ficheiros de soluções mencionados na versão anterior do README não estão incluídos neste ZIP.
+
+## Utilização dos laboratórios no Google Colab
+
+Os links «Notebook (IPYNB)» apontam para os ficheiros locais incluídos no ZIP. Para os utilizar no Google Colab, abrir o Colab, iniciar sessão numa conta Google e carregar o ficheiro `.ipynb` pretendido. Guardar uma cópia no Drive, executar as células por ordem e seguir o enunciado. Guardar o trabalho e descarregar o notebook para entrega. Os ficheiros produzidos durante a execução ficam no ambiente temporário do Colab e devem ser descarregados se forem necessários.
 
 ## Organização dos ficheiros
 
-- `slide.pptx` e `slide.pdf`: apresentações.
-- `pratica.pdf`: exercícios práticos.
-- `laboratorio.ipynb`: laboratório de Python.
-- `pratica-solucao.pdf` e `laboratorio-solucao.pdf`: soluções, quando disponíveis.
-- `README.md`: índice do tópico e acesso ao Colab.
+- `00-Apresentacao`: apresentação em `slide.pdf` e `slide.pptx`, com um README próprio.
+- `01-Artificial Intelligence and Agents`: `slide.pdf`, `pratica.pdf` e `laboratorio.ipynb`.
+- `02- Formulação e Procura Não Informada`, `03-Algoritmo A e Heurísticas` e `04- CSP`: `slides.pdf`, `pratica.pdf` e `laboratorio.ipynb` em cada pasta.
+- Os nomes originais, incluindo espaços e acentos, foram preservados. Apenas a pasta do tópico 00 contém um README próprio.
 
-Quando existem várias apresentações no mesmo tópico, as adicionais usam `slide-02.pptx`, `slide-03.pptx`, etc. Os materiais complementares conservam os seus nomes. Os materiais indicados como «a disponibilizar» ainda não estão incluídos.
+## Outros ficheiros na raiz
 
-As soluções incluídas nesta versão estão acessíveis a quem tiver acesso ao repositório.
+- [LICENSE](LICENSE)
+- [.gitattributes](.gitattributes)
+- [.gitignore](.gitignore)
